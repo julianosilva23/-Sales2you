@@ -1,49 +1,59 @@
-Etapa: UML - Diagramas
-  
-  Diagrama de Caso de Uso. 
-    Status: Em andamento. 
-    Responsável: Juliano
-    Prazo: 09/04
+Etapa 1
 
-  Diagrama de Atividade
-    Status: Em andamento. 
-    Responsável: Juliano  
-    Prazo: 09/04
-    
-  Diagrama de Sequencia
-    Status: Em andamento. 
-    Responsável: Juliano  
-    Prazo: 09/04
-        
+  UML - Diagramas
 
-  Diagrama de Atividade
-    Status:Responsável: Felipe
-    Prazo: 09/04
+    Diagrama de Caso de Uso. 
+      Status: Em andamento. 
+      Responsável: Juliano
+      Prazo: 09/04
 
-  Diagrama de Objetos
-   Status:  
-    Responsável: Catalina
-    Prazo: 09/04
-  
-  Diagrama de Atividade
-    Status:  
-    Responsável: Catalina
-    Prazo: 09/04
-    
-  Diagrama de Estados
-    Status: ?
-    Responsável: Felipe  
-    Prazo: 09/04
-  
-Etapa Tabelas Banco de Dados
-  Finalizar tabelas no workbench
-    Status:  ?
-    Responsável: Felipe
-    Prazo: 09/04
-    
- Dreamweaver    
-  Baixar e Aprender a mexer
+    Diagrama de Atividade
+      Status: Em andamento. 
+      Responsável: Juliano  
+      Prazo: 09/04
+
+    Diagrama de Sequencia
+      Status: Em andamento. 
+      Responsável: Juliano  
+      Prazo: 09/04
+
+
+    Diagrama de Atividade
+      Status:Responsável: Felipe
+      Prazo: 09/04
+
+    Diagrama de Objetos
      Status:  
-    Responsável: Felipe, Juliano, Catalina
-    Prazo: 15/04
+      Responsável: Catalina
+      Prazo: 09/04
+
+    Diagrama de Atividade
+      Status:  
+      Responsável: Catalina
+      Prazo: 09/04
+
+    Diagrama de Estados
+      Status: ?
+      Responsável: Felipe  
+      Prazo: 09/04
+
+    Etapa Tabelas Banco de Dados
+      Finalizar tabelas no workbench
+        Status:  ?
+        Responsável: Felipe
+      Prazo: 09/04
+    
+ Etapa 2 
+ 
+   Dreamweaver    
+    Baixar e Aprender a mexer
+       Status:  
+      Responsável: Felipe, Juliano, Catalina
+      Prazo: 15/04
+      
+ Etapa 3 
+ 
+  Funções 
+  ???
+   
  
