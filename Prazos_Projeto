@@ -3,12 +3,12 @@ Etapa: UML - Diagramas
   Diagrama de Caso de Uso. 
     Status: Em andamento. 
     Responsável: Juliano
-    Prazo: 06/04
+    Prazo: 09/04
 
   Diagrama de Atividade
     Status: Em andamento. 
     Responsável: Juliano  
-    Prazo: 06/04
+    Prazo: 09/04
     
   Diagrama de Sequencia
     Status: Em andamento. 
@@ -18,26 +18,26 @@ Etapa: UML - Diagramas
 
   Diagrama de Atividade
     Status:Responsável: Felipe
-    Prazo: 06/04
+    Prazo: 09/04
 
   Diagrama de Objetos
    Status:  
     Responsável: Catalina
-    Prazo: 06/04
+    Prazo: 09/04
   
   Diagrama de Atividade
     Status:  
     Responsável: Catalina
-    Prazo: 06/04
-
+    Prazo: 09/04
+    
   Diagrama de Estados
-    Status: Em andamento. 
+    Status: ?
     Responsável: Felipe  
-    Prazo: 07/04
+    Prazo: 09/04
   
 Etapa Tabelas Banco de Dados
   Finalizar tabelas no workbench
-    Status:  
+    Status:  ?
     Responsável: Felipe
     Prazo: 09/04
     
