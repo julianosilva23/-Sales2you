@@ -115,6 +115,10 @@ CREATE TABLE IF NOT EXISTS `mydb`.`associado` (
 ENGINE = InnoDB;
 
 
+
+Associado = {CNPJ, nome_fantasia, razao_social, numero_endereco, CEP*, complemento, telefone_fixo, telefone_celular, e-mail, tipo_produto, observercao, tipo_venda, endereco_site}
+
+
 -- -----------------------------------------------------
 -- Table `mydb`.`produto`
 -- -----------------------------------------------------
