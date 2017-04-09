@@ -7,16 +7,10 @@ Etapa 1
       Responsável: Juliano
       Prazo: 09/04
 
-    Diagrama de Atividade
-      Status: Em andamento. 
-      Responsável: Juliano  
-      Prazo: 09/04
-
     Diagrama de Sequencia
-      Status: Em andamento. 
+      Status: Entregue. 
       Responsável: Juliano  
       Prazo: 09/04
-
 
     Diagrama de Atividade
       Status:Responsável: Felipe
@@ -26,9 +20,7 @@ Etapa 1
      Status:  
       Responsável: Catalina
       Prazo: 09/04
-
-    Diagrama de Atividade
-      Status:  
+Status:  
       Responsável: Catalina
       Prazo: 09/04
 
@@ -40,7 +32,7 @@ Etapa 1
     Etapa Tabelas Banco de Dados
       Finalizar tabelas no workbench
         Status:  ?
-        Responsável: Felipe
+        Responsável: Juliano 
       Prazo: 09/04
     
  Etapa 2 
