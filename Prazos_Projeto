@@ -1,3 +1,22 @@
+Etapa 0
+  Requisitos Funcionais
+    
+    Melhorar tabela de requisitos funcionas
+      Status: Em andamento
+      Responsável: Juliano
+      Prazo: 09/04 
+    
+    Criar tabela de requisitos funcionais produto
+      Status: Em andamento
+      Responsável: Juliano
+      Prazo: 09/04 
+    
+    Verificar Diagramas
+    Detalhes da Tarefa: Enviar email para professor Egon para verificar quais são os diagramas necessários para o trabalho e se estamos no caminho certo.
+      Status: Em andamento
+      Responsável: Juliano
+      Prazo: 09/04     
+    
 Etapa 1
 
   UML - Diagramas
@@ -17,12 +36,10 @@ Etapa 1
       Prazo: 09/04
 
     Diagrama de Objetos
-     Status:  
+      Status: Em andamento
       Responsável: Catalina
       Prazo: 09/04
-Status:  
-      Responsável: Catalina
-      Prazo: 09/04
+     
 
     Diagrama de Estados
       Status: ?
@@ -31,15 +48,15 @@ Status:
 
     Etapa Tabelas Banco de Dados
       Finalizar tabelas no workbench
-        Status:  ?
-        Responsável: Juliano 
+      Status:  ?
+      Responsável: Juliano 
       Prazo: 09/04
     
  Etapa 2 
  
    Dreamweaver    
     Baixar e Aprender a mexer
-       Status:  
+      Status:  
       Responsável: Felipe, Juliano, Catalina
       Prazo: 15/04
       
