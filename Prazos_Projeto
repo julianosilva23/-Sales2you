@@ -2,12 +2,12 @@ Etapa 0
   Requisitos Funcionais
     
     Melhorar tabela de requisitos funcionas
-      Status: Em andamento
+      Status: Concluido
       Responsável: Juliano
       Prazo: 09/04 
     
     Criar tabela de requisitos funcionais produto
-      Status: Em andamento
+      Status: Concluido
       Responsável: Juliano
       Prazo: 09/04 
     
@@ -33,7 +33,9 @@ Etapa 1
       Prazo: 09/04
 
     Diagrama de Atividade
-      Status:Responsável: Felipe
+      Status:Concluido
+      Responsável: Felipe
+      
       Prazo: 09/04
 
     Diagrama de Objetos
