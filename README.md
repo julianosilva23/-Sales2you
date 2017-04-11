@@ -7,3 +7,6 @@ diagrama de classes
 diagrama de sequencia 
 diagrama de estados
 diagrama de iteração
+
+Favor não usar acentuação nos arquivos, bem como espaços. Os arquivos devem ser escritos como o exemplo:
+exemplo_como_voce_deve_fazer 
