@@ -1,4 +1,7 @@
-# -Sales2you
+# -Sales2you 
+
+** DESCONTINUADO **
+
 Sales2you Projeto de Banco de Dados
 
 fazer esses diagrmas
