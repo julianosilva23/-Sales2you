@@ -1,4 +1,5 @@
-# -Sales2you 
+# Sales2you 
+Projeto para a Disciplina de Banco de Dados II
 
 ** DESCONTINUADO **
 
